@@ -1,0 +1,53 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+body .unocentro{
+	background: #2D2735;
+}
+/*HEADER*/
+header{
+	background: #1C1821;
+	color: white;
+}
+img{
+	width: 50%;
+}
+.menu{
+	margin: 5% 0% 0% 0%;
+}
+header a{
+	font-style: italic;
+	padding: 0% 0% 0% 5%;
+}
+header a:hover{
+	color: orange;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+/*SECTION1*/
+.uno{
+	background: url(../image/header-image.jpg);
+}
+.unocentro{
+	margin: 0% 22% 0% 22%;
+}
+.titulo{
+	color: #F7BA6A;
+	font-family: 'Open Sans';
+}
+
+/*FOOTER*/
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
